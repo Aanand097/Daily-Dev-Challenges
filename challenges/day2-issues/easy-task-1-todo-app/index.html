@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Day 2 - Easy Task 1: To-do App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header>
+      <h1>To-do App</h1>
+      <p>Track tasks with add, complete, and delete actions.</p>
+    </header>
+
+    <section class="task-panel">
+      <div class="task-form">
+        <input id="new-task" type="text" placeholder="Add a new task" aria-label="New task">
+        <button id="add-task">Add Task</button>
+      </div>
+
+      <div class="stats">
+        <span id="count">0 tasks</span>
+        <button id="clear-completed">Clear completed</button>
+      </div>
+
+      <ul id="task-list" class="task-list" aria-live="polite"></ul>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
