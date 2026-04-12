@@ -21,3 +21,7 @@ This folder contains solved Day 3 issue tasks built under the name `Aanand`.
 - Open `index.html` in a browser
 - Click any task card to view the working solution
 - Each task is self-contained with its own HTML, CSS, and JS files
+
+## Task documentation
+
+Each task folder now includes a `README.md` describing the implementation and how to test the solution.
