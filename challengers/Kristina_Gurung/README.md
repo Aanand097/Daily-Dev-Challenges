@@ -4,11 +4,11 @@ Welcome to my Daily Dev Challenges contributions.
 
 ## Included tasks
 
-- `easy-task-1-url-shortener-logic`
-- `easy-task-2-debounce-function`
-- `medium-task-3-3d-card-hover-effect`
-- `medium-task-4-markdown-previewer`
-- `hard-task-5-responsive-dashboard-sidebar`
+- `easy/easy-task-1-url-shortener-logic`
+- `easy/easy-task-2-debounce-function`
+- `medium/medium-task-3-3d-card-hover-effect`
+- `medium/medium-task-4-markdown-previewer`
+- `hard/hard-task-5-responsive-dashboard-sidebar`
 - `leaderboard`
 
 ## How to preview
